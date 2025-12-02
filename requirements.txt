@@ -1,0 +1,12 @@
+torch 
+torchvision 
+torchaudio
+transformers 
+datasets
+timm
+matplotlib 
+pillow 
+tqdm
+pytorch-lightning
+os
+json
