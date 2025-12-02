@@ -66,7 +66,7 @@ This command will submit the Job request batch, which will run once resources ar
 
 ### For Results (from our report)
 
-- `./results/GROUND_TRUTH_JSON.json` contains ground truth of `val2017` segment of COCO in the same order as tested output
+- `./results/GROUND_TRUTH_JSON.json` contains ground truth of `val2017` segment of COCO in the same order as official val2017 annotations json.
 - `./results/new_format_json.json` contains generated captions on `val2017` BY MODEL_TRAINED on COCO (in same order as GT(above))
 - `./results/output_json_model_flickr.json` contains both GT and generated outputs of MODEL TRAINED on COCO.
 
